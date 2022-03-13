@@ -14,7 +14,7 @@
 | E-commerce | E-commerce — Анализ товарного ассортимента. Проект направлен на оптимизацию товарного ассортимента интернет-магазина товаров для дома и быта, поиск инсайтов и определение рекомендаций по работе с клиентами. | Python, Pandas, Numpy, Matplotlib, Plotly, Math, Scipy, A/B-тестирование, визуализация данных, проверка статистических гипотез |[e-commerce_2][9]|
 | AB test #2 | Проведение оценки результатов A/B-теста | Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, A/B-тестирование, проверка статистических гипотез |[ab_test #2][10]|
 
-[1]:https://github.com/choodnovsky/pet_projects/blob/main/video_games.ipynb
+[1]:https://github.com/choodnovsky/pet_projects/blob/master/video_games.ipynb
 [2]:https://github.com/choodnovsky/pet_projects/blob/main/ecommerce.ipynb
 [3]:https://github.com/choodnovsky/pet_projects/blob/main/AB_test_1.ipynb
 [4]:https://github.com/choodnovsky/pet_projects/blob/main/AB_test_3.ipynb
