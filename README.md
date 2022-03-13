@@ -15,7 +15,7 @@
 | AB test #2 | Проведение оценки результатов A/B-теста | Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, A/B-тестирование, проверка статистических гипотез |[ab_test #2][10]|
 
 [1]:https://github.com/choodnovsky/pet_projects/blob/master/video_games.ipynb
-[2]:https://github.com/choodnovsky/pet_projects/blob/master/ecommerce.ipynb
+[2]:https://github.com/choodnovsky/pet_projects/blob/master/ecommerce_1.ipynb
 [3]:https://github.com/choodnovsky/pet_projects/blob/master/AB_test_1.ipynb
 [4]:https://github.com/choodnovsky/pet_projects/blob/master/AB_test_3.ipynb
 [5]:https://github.com/choodnovsky/pet_projects/blob/master/event_analytics.ipynb
