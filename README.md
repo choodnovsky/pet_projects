@@ -15,12 +15,12 @@
 | AB test #2 | Проведение оценки результатов A/B-теста | Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, A/B-тестирование, проверка статистических гипотез |[ab_test #2][10]|
 
 [1]:https://github.com/choodnovsky/pet_projects/blob/master/video_games.ipynb
-[2]:https://github.com/choodnovsky/pet_projects/blob/main/ecommerce.ipynb
-[3]:https://github.com/choodnovsky/pet_projects/blob/main/AB_test_1.ipynb
-[4]:https://github.com/choodnovsky/pet_projects/blob/main/AB_test_3.ipynb
-[5]:https://github.com/choodnovsky/pet_projects/blob/main/event_analytics.ipynb
-[6]:https://github.com/choodnovsky/pet_projects/blob/main/restaurants.ipynb
-[7]:https://github.com/choodnovsky/pet_projects/blob/main/gym_churn.ipynb
-[8]:https://github.com/choodnovsky/pet_projects/blob/main/aviation.ipynb
-[9]:https://github.com/choodnovsky/pet_projects/blob/main/ecommerce_2.ipynb
-[10]:https://github.com/choodnovsky/pet_projects/blob/main/AB_test_2.ipynb
+[2]:https://github.com/choodnovsky/pet_projects/blob/master/ecommerce.ipynb
+[3]:https://github.com/choodnovsky/pet_projects/blob/master/AB_test_1.ipynb
+[4]:https://github.com/choodnovsky/pet_projects/blob/master/AB_test_3.ipynb
+[5]:https://github.com/choodnovsky/pet_projects/blob/master/event_analytics.ipynb
+[6]:https://github.com/choodnovsky/pet_projects/blob/master/restaurants.ipynb
+[7]:https://github.com/choodnovsky/pet_projects/blob/master/gym_churn.ipynb
+[8]:https://github.com/choodnovsky/pet_projects/blob/master/aviation.ipynb
+[9]:https://github.com/choodnovsky/pet_projects/blob/master/ecommerce_2.ipynb
+[10]:https://github.com/choodnovsky/pet_projects/blob/master/AB_test_2.ipynb
